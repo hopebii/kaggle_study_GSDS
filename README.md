@@ -36,3 +36,15 @@
 |**Week1** | ㅇ  | ㅇ | 
 |**Week2** | ㅇ  | ㅇ | 
 |**Week3** | ㅇ  | ㅇ | 
+
+
+</br>
+</br>
+
+💡 **참고자료**
+
+•  [캐글을 알아보자 시리즈 블로그](https://blog.naver.com/PostView.nhn?blogId=youji4ever&logNo=221419863162)
+
+•  [캐글대회 일단 시작하기](https://medium.com/@wonseokjung_95449/30%EB%B6%84%EC%9D%B4%EB%A9%B4-%ED%95%98%EB%8A%94-%EC%BA%90%EA%B8%80-%EB%8C%80%ED%9A%8C-%EC%A0%9C%EC%B6%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-%EC%9D%BC%EB%8B%A8-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-72939abdfe80)
+
+•  [캐글을 처음 접한 사람들을 위한 문서 깃헙](https://github.com/stevekwon211/Hello-Kaggle-Guide-KOR) ⭐ 
